@@ -1,6 +1,0 @@
-D:\Project\SendKeys\x64\Debug\SendKeys.dll
-D:\Project\SendKeys\x64\Debug\SendKeys.pdb
-D:\Project\SendKeys\obj\x64\Debug\SendKeys.csproj.AssemblyReference.cache
-D:\Project\SendKeys\obj\x64\Debug\SendKeys.csproj.CoreCompileInputs.cache
-D:\Project\SendKeys\obj\x64\Debug\SendKeys.dll
-D:\Project\SendKeys\obj\x64\Debug\SendKeys.pdb

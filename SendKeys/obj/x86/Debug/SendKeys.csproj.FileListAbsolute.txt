@@ -1,0 +1,6 @@
+D:\Project\SendKeys\x32\Debug\SendKeys.dll
+D:\Project\SendKeys\x32\Debug\SendKeys.pdb
+D:\Project\SendKeys\obj\x86\Debug\SendKeys.csproj.AssemblyReference.cache
+D:\Project\SendKeys\obj\x86\Debug\SendKeys.csproj.CoreCompileInputs.cache
+D:\Project\SendKeys\obj\x86\Debug\SendKeys.dll
+D:\Project\SendKeys\obj\x86\Debug\SendKeys.pdb
