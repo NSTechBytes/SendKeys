@@ -1,7 +1,7 @@
 
-# SenKeys - Rainmeter Plugin  
+# SendKeys - Rainmeter Plugin  
 
-**SenKeys** is a Rainmeter plugin that enables users to simulate keypresses directly from their Rainmeter skins. This plugin provides a flexible and powerful way to trigger keyboard inputs, automate workflows, and enhance interactivity in your Rainmeter setups.
+**SendKeys** is a Rainmeter plugin that enables users to simulate keypresses directly from their Rainmeter skins. This plugin provides a flexible and powerful way to trigger keyboard inputs, automate workflows, and enhance interactivity in your Rainmeter setups.
 
 ---
 
@@ -17,8 +17,8 @@
 
 ## Installation  
 
-1. Download the compiled `SenKeys.dll` plugin file.  
-2. Place the `SenKeys.dll` file into the `Plugins` folder of your Rainmeter installation (typically located in `C:\Program Files\Rainmeter\Plugins`).  
+1. Download the compiled `SendKeys.dll` plugin file.  
+2. Place the `SendKeys.dll` file into the `Plugins` folder of your Rainmeter installation (typically located in `C:\Program Files\Rainmeter\Plugins`).  
 3. Restart Rainmeter to load the plugin.  
 
 ---
@@ -27,12 +27,12 @@
 
 ### Plugin Configuration  
 
-In your Rainmeter skin, define a measure using the `SenKeys` plugin and configure the following options:  
+In your Rainmeter skin, define a measure using the `SendKeys` plugin and configure the following options:  
 
 ```ini
 [MeasureSendKeys]
 Measure=Plugin
-Plugin=SenKeys
+Plugin=SendKeys
 Keys=Ctrl+Alt+Delete   ; Define the keys to simulate
 Delay=500              ; Delay (in milliseconds) between key groups
 ```
@@ -102,7 +102,7 @@ Here is the full list of supported keys:
 
 ## Example  
 
-Here is an example Rainmeter skin using SenKeys:  
+Here is an example Rainmeter skin using SendKeys:  
 
 ```ini
 [Rainmeter]
@@ -111,7 +111,7 @@ DynamicWindowSize=1
 
 [MeasureSendKeys]
 Measure=Plugin
-Plugin=SenKeys
+Plugin=SendKeys
 Keys=Ctrl+Shift+N
 Delay=100
 
